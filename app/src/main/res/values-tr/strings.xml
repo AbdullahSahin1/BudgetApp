@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bütçe Takip</string>
+    
+    <!-- Ana Ekran -->
+    <string name="total_balance">Toplam Bakiye</string>
+    <string name="add_transaction">Yeni İşlem Ekle</string>
+    <string name="transactions">İşlemler</string>
+    
+    <!-- İşlem Dialog -->
+    <string name="new_transaction">Yeni İşlem</string>
+    <string name="edit_transaction">İşlemi Düzenle</string>
+    <string name="amount">Tutar</string>
+    <string name="description">Açıklama</string>
+    <string name="category">Kategori</string>
+    <string name="income">Gelir</string>
+    <string name="expense">Gider</string>
+    <string name="save">Kaydet</string>
+    <string name="cancel">İptal</string>
+    
+    <!-- Kategoriler -->
+    <string name="category_rent">Kira</string>
+    <string name="category_bills">Fatura</string>
+    <string name="category_entertainment">Eğlence</string>
+    <string name="category_shopping">Alışveriş</string>
+    <string name="category_salary">Maaş</string>
+    <string name="category_side_job">Ek İş</string>
+    <string name="category_other">Diğer</string>
+    
+    <!-- Mesajlar -->
+    <string name="fill_all_fields">Lütfen tüm alanları doldurun</string>
+    <string name="delete_transaction">İşlemi Sil</string>
+    <string name="delete_confirmation">Bu işlemi silmek istediğinizden emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+</resources> 

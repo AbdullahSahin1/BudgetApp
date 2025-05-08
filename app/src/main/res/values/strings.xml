@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bütçe Takip</string>
+    
+    <!-- Ana Ekran -->
+    <string name="total_balance">Toplam Bakiye</string>
+    <string name="add_transaction">İşlem Ekle</string>
+    <string name="transactions">İşlemler</string>
+    <string name="toggle_theme">Tema Değiştir</string>
+    
+    <!-- İşlem Dialog -->
+    <string name="new_transaction">Yeni İşlem</string>
+    <string name="edit_transaction">İşlemi Düzenle</string>
+    <string name="amount">Tutar</string>
+    <string name="description">Açıklama</string>
+    <string name="category">Kategori</string>
+    <string name="income">Gelir</string>
+    <string name="expense">Gider</string>
+    <string name="save">Kaydet</string>
+    <string name="cancel">İptal</string>
+    <string name="other_category_description">Açıklama</string>
+    <string name="date">Tarih</string>
+    <string name="select_date">Tarih Seç</string>
+    <string name="type">Tür</string>
+    <string name="select_month">Ay Seç</string>
+    <string name="select_year">Yıl Seç</string>
+    
+    <!-- Kategoriler -->
+    <string name="category_rent">Kira</string>
+    <string name="category_bills">Fatura</string>
+    <string name="category_entertainment">Eğlence</string>
+    <string name="category_shopping">Alışveriş</string>
+    <string name="category_subscription">Abonelikler</string>
+    <string name="category_salary">Maaş</string>
+    <string name="category_side_job">Ek İş</string>
+    <string name="category_other">Diğer</string>
+    
+    <!-- Mesajlar -->
+    <string name="fill_all_fields">Lütfen tüm alanları doldurun</string>
+    <string name="delete_transaction">İşlemi Sil</string>
+    <string name="delete_confirmation">Bu işlemi silmek istediğinizden emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="delete">Sil</string>
+    <string name="no_transactions_message">İşlem girişi olmamıştır</string>
+    <string name="future_month_message">Henüz bu zamana gelmedik</string>
+    <string name="future_date_message">Gelecek tarih seçilemez</string>
+    <string name="different_month_message">Sadece bu ay içindeki tarihleri seçebilirsiniz</string>
+
+    <!-- Grafik -->
+    <string name="income_chart">Gelir Grafiği</string>
+    <string name="expense_chart">Gider Grafiği</string>
+    <string name="monthly_summary">Aylık Özet</string>
+    <string name="total_income">Toplam Gelir</string>
+    <string name="total_expense">Toplam Gider</string>
+    <string name="balance">Bakiye</string>
+</resources>
